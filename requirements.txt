@@ -1,0 +1,6 @@
+Django==5.0.6
+pytest==8.3.2
+strawberry-graphql[channels,debug-server]==0.237.1
+strawberry-graphql-django==0.47.1
+strawberry-django-auth==0.377.0
+gunicorn[uvirorn]==22.0.0
